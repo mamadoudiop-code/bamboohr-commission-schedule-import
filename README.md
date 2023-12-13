@@ -91,7 +91,7 @@ Edit the .env file
 
 1. Ensure all necessary environment variables are set.
 
-2. The first script main.py will automatically connect to the database, import data from RPT_COMM_ELI to RPT_COMM_ELI_BHR, Update the BHR_ID, and publish data to bamboorh if tis is not  existed in bamboohr
+2. The first script main.py will automatically connect to the database
 
 
 ## Notes
