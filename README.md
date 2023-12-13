@@ -105,7 +105,6 @@ Edit the .env file
 open to contributions 
 
 ## Authors and acknowledgment
-- Janie Michel: Integration Team lead
 - Mamadou Bamba Diop: Integration Specialist
 
 
