@@ -15,7 +15,7 @@ This Python script is designed to interact with an IBM DB2 database and the Bamb
 
 2. Data Insertion:
 
-    - Performs an SQL operation to insert data from one table (RPT_COMM_RATES_ELI) to another (RPT_COMM_RATES_ELI_BHR) in the database.
+    - Performs an SQL operation to insert data .
 
 3.  API Interaction:
 
@@ -48,7 +48,7 @@ This Python script is designed to interact with an IBM DB2 database and the Bamb
 
 ## Docker Install
 **Clone Repository**
-1. `git clone https://git.shipenergy.com/etg-integrations/commission/bamboohr-commission-schedule-import.git`
+1. 
 
 **Moved into bamboohr-commission-schedule-import.git DIR**
 
